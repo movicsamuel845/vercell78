@@ -1,0 +1,4 @@
+baseURL = "https://funnyimageguthen.vercel.app"
+languageCode = "en-us"
+title = "Funny Image 2021"
+theme = "tale-hugo-master"
